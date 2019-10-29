@@ -1,0 +1,7 @@
+[warn] Multiple resolvers having different access mechanism configured with same name 'apache-snapshots'. To avoid conflict, Remove duplicate project resolvers (`resolvers`) or rename publishing resolver (`publishTo`).
+[warn] insecure HTTP request is deprecated 'http://repository.apache.org/snapshots/'; switch to HTTPS or opt-in as ("apache-snapshots" at "http://repository.apache.org/snapshots/").withAllowInsecureProtocol(true)
+[warn] insecure HTTP request is deprecated 'http://central.maven.org/maven2/'; switch to HTTPS or opt-in as ("apache-snapshots" at "http://central.maven.org/maven2/").withAllowInsecureProtocol(true)
+[debug] "not up to date. inChanged = true, force = false
+[debug] Updating ProjectRef(uri("file:/home/knoldus/IdeaProjects/delta_lake_blog/"), "delta_lake_blog")...
+[debug] Done updating ProjectRef(uri("file:/home/knoldus/IdeaProjects/delta_lake_blog/"), "delta_lake_blog")
+[warn] There may be incompatibilities among your library dependencies; run 'evicted' to see detailed eviction warnings.
